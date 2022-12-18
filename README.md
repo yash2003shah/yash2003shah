@@ -10,7 +10,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:2 GPA --> 4.0/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:3 GPA --> 3.9/4.0 <br>
   
-- You can find me on:  **https://www.linkedin.com/in/yashshah0608/** <br>
+- Connect with me at:  **https://www.linkedin.com/in/yashshah0608/** <br>
 - Reach me at 📫**yash2003shah@gmail.com**
 
 
