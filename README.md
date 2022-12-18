@@ -3,7 +3,7 @@
 
 <h2> 👦🏽 About Me </h2>
 
-- 🤩 &nbsp; Experienced in designing and developing responsive websites using modern front-end technologies. Skilled at building robust websites that accomplish client goals and objectives.  I specialize in JavaScript and have professional experience working with C++, React, HTML5, CSS3, and SQL. I am a good learner who is very driven to continue learning and improving in this field, and I am open to opportunities to work with a group where I can participate and even learn more about it so feel free to  to reach out and connect with me on GitHub and LinkedIn.  
+- 🤩 &nbsp; Experienced in designing and developing responsive websites using modern front-end technologies. Skilled at building robust websites that accomplish client goals and objectives.  I specialize in JavaScript and have professional experience working with C++, React, HTML5, CSS3, and SQL. I am a good learner who is very driven to continue learning and improving in this field, and I am open to opportunities to work with a group where I can participate and even learn more about these technologies so feel free to  to reach out and connect with me on GitHub and LinkedIn.  
 
   
 - 🎓 &nbsp; Student Of Computer Programming at Seneca College of Applied Arts and Technology 
