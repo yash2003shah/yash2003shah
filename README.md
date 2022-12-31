@@ -5,7 +5,7 @@
 
 - 🤩 &nbsp; Experienced in designing and developing responsive websites using modern front-end technologies. Skilled at building robust websites that accomplish client goals and objectives.  I specialize in JavaScript and have professional experience working with C++, React, HTML5, CSS3, and SQL. I am a good learner who is very driven to continue learning and improving in this field, and I am open to opportunities to work with a group where I can participate and even learn more about these technologies so feel free to  to reach out and connect with me on GitHub and LinkedIn.  
 
-  <img align="right" margin-top="20px" height="200px" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
+  <img align="right" margin-top="20px" height="220px" alt="GIF" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" />
 
 - 🎓 &nbsp; Student Of Computer Programming at Seneca College of Applied Arts and Technology 
 - ⌚ &nbsp; Sem:1 GPA --> 3.5/4.0 <br>
