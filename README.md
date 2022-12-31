@@ -24,7 +24,7 @@
  
  |       |  |
 | :----: |    :----:   |
-| ![My github stats](https://github-readme-stats.vercel.app/api/?username=yash2003shah&show_icons=true&theme=radical| ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2003shah&layout=compact&theme=radical)|
+| ![My github stats](https://github-readme-stats.vercel.app/api?username=yash2003shah&show_icons=true&theme=radical| ![Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=yash2003shah&layout=compact&theme=radical)|
   
  
 <br>  
