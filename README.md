@@ -11,7 +11,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:3 GPA --> 3.9/4.0 <br>
   
 - Connect with me at: **https://www.linkedin.com/in/yashshah0608/** <br>
-- Reach me at 📫**yash2003shah@gmail.com**
+- Reach me at: 📫**yash2003shah@gmail.com**
 
 
   
