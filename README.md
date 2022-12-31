@@ -1,4 +1,5 @@
 ### <h1>Hey 👋, I'm Yash Shah! <h1>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hey 👋, I'm Yash Shah!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Bold%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
 
 
 <h2> 👦🏽 About Me </h2>
@@ -12,7 +13,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:2 GPA --> 4.0/4.0 <br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Sem:3 GPA --> 3.9/4.0 <br>
   
-- Connect with me at:**https://www.linkedin.com/in/yashshah0608/**
+- Connect with me at: **https://www.linkedin.com/in/yashshah0608/** <br>
 - Reach me at 📫**yash2003shah@gmail.com**
 
 
